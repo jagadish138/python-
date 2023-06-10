@@ -1,10 +1,7 @@
 
  # INTERVIEW QUESTIONS
 # Introduce yourself
-My self vijay i am from gulbarga.
-I have completed my BE graduation in PDA college of engineering by 2022.
-I have done one academic project based on arduino ie **RIVER WATER SURFACE GARBAGE CLEANING ROVER**  with a motive of reducing the extent of death rate of aquatic animals and water pollution.
-with team support our project has been **selected by the VTU** this is our greatest achievement in our academics apart from that i participated in social responsibilities such as **blood donation camp and grow green**
+xxxxxxxx
 
 # Tell me about python?
 - Python is a high-level, interpreted programming language known for its simplicity and readability. It was created by Guido van Rossum and was first released in 1991.
